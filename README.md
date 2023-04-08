@@ -1,15 +1,16 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=8f72dd&height=200&section=header&text=Kyong%20Ah's%20Github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=8f72dd&height=200&section=header&text=Kyong%20Ah's%20💻&fontSize=50&fontColor=000000)
 
 <br>
  
   <div>
-    <h3>안녕하세요!</h3>
+    <p>안녕하세요!</p>
     <p>프론트엔드 개발자 서경아입니다.</p>
     <p>📧 kyongahjulieseo@gmail.com</p>
   </div>
- 
+  
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://mammoth-decimal-777.notion.site/cb64ff8f9be44471a6416f94de5c8db3?v=f6e1ae9a6fa24a36b209d0a2574d589d)](https:https://mammoth-decimal-777.notion.site/cb64ff8f9be44471a6416f94de5c8db3?v=f6e1ae9a6fa24a36b209d0a2574d589d)
   
 <!-- <h3>STACKS</h3>
 <img src="https://img.shields.io/badge/javascript-181717?style=for-the-badge&logo=javascript&logoColor=white">
